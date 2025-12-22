@@ -350,6 +350,3 @@ def pre_process_whole():
 
     print("Pre-processing is complete.")
 
-
-# Test pre-processing
-pre_process_whole()
